@@ -1,0 +1,11 @@
+/Users/bachtaeyeong/10_SrcHub/DOTNET/PrimeService/unit-testing-using-dotnet-test/PrimeService/bin/Debug/net8.0/PrimeService.deps.json
+/Users/bachtaeyeong/10_SrcHub/DOTNET/PrimeService/unit-testing-using-dotnet-test/PrimeService/bin/Debug/net8.0/PrimeService.dll
+/Users/bachtaeyeong/10_SrcHub/DOTNET/PrimeService/unit-testing-using-dotnet-test/PrimeService/bin/Debug/net8.0/PrimeService.pdb
+/Users/bachtaeyeong/10_SrcHub/DOTNET/PrimeService/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bachtaeyeong/10_SrcHub/DOTNET/PrimeService/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.AssemblyInfoInputs.cache
+/Users/bachtaeyeong/10_SrcHub/DOTNET/PrimeService/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.AssemblyInfo.cs
+/Users/bachtaeyeong/10_SrcHub/DOTNET/PrimeService/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.csproj.CoreCompileInputs.cache
+/Users/bachtaeyeong/10_SrcHub/DOTNET/PrimeService/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.dll
+/Users/bachtaeyeong/10_SrcHub/DOTNET/PrimeService/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/refint/PrimeService.dll
+/Users/bachtaeyeong/10_SrcHub/DOTNET/PrimeService/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.pdb
+/Users/bachtaeyeong/10_SrcHub/DOTNET/PrimeService/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/ref/PrimeService.dll
